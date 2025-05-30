@@ -1,2 +1,2 @@
 # py_build
-A reposetory for a flexible build system in python
+A flexible build system written in python and is free to use for your projects
